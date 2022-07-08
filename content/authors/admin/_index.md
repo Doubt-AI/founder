@@ -26,8 +26,8 @@ interests:
   - AI Security
 
 # Education to show in About widget
-education: None
-  courses: None
+#education:
+#  courses: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
