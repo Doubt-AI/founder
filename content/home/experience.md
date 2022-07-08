@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Leading the Security Program
-        * Being Awesone
+        * Being Awesome
 
   - title: Staff Security Engineer
     company: Homelight
