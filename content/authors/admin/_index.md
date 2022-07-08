@@ -49,6 +49,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/cody-c-0ba30292/
+  - icon: substack
+    icon_pack: fab
+    link: https://substack.com/DoubtAI
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
