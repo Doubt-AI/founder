@@ -11,7 +11,7 @@ main:
     url: '#posts'
     weight: 20
   - name: Doubt AI
-    url: 'https://doubt.ai'
+    url: "https://doubt.ai"
     weight: 30
 #  - name: Talks
     url: '#talks'
