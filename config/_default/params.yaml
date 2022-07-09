@@ -45,9 +45,9 @@ footer:
   copyright:
     notice: '© 2022 Doubt AI. · Powered by the [Academic](https://themes.gohugo.io/themes/hugo-academic/) theme for [Hugo](https://gohugo.io).'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
