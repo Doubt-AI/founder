@@ -23,11 +23,12 @@ module:
   imports:
       disable: true
 
-#module:
-#  imports:
-#    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
-#    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
-
+module:
+  imports:
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
+      disable: true
+      
 ############################
 ## ADVANCED
 ############################
