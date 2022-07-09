@@ -3,7 +3,7 @@
     "path": "~/doubt.ai/www/founder/config/_default/config.yaml",
     "project_path": "config/_default/config.yaml",
     "type": "yaml",
-    "hash": "3176774598",
+    "hash": "149135018",
     "contents": "",
     "dirty": false,
     "created": 1657325847027.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "23,73",
-        "scrollLine": "8"
+        "cursorPosition": "25,12",
+        "scrollLine": "7"
     },
     "folds": "",
-    "lastKnownWriteTime": 1657326623,
+    "lastKnownWriteTime": 1657326825,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1657326623380,
+    "last_content_update": 1657326825343,
     "read_only": false,
     "read_only_alternatives": []
 }
