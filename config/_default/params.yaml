@@ -16,10 +16,10 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    local_business_type: 'Cybersecurity'
+    org_name: 'Doubt AI'
+    description: 'Cybersecurity'
+    twitter: 'DoubtAI'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -44,11 +44,11 @@ header:
 #footer:
   copyright:
     notice: '© 2022 Doubt AI. · Powered by the [Academic](https://themes.gohugo.io/themes/hugo-academic/) theme for [Hugo](https://gohugo.io).'
-#    license:
-#      enable: false
-#      allow_derivatives: false
-#      share_alike: false
-#      allow_commercial: false
+    license:
+      enable: false
+      allow_derivatives: false
+      share_alike: false
+      allow_commercial: false
 
 # Localization
 
