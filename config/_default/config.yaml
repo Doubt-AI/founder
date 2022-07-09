@@ -21,8 +21,8 @@ removePathAccents: true
 
 module:
   imports:
-#    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
-#    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
+    - path: https://github.com/Doubt-AI/founder/tree/main/themes/modules/wowchemy
+    - path: https://github.com/Doubt-AI/founder/tree/main/themes/modules/wowchemy
 
 ############################
 ## ADVANCED
