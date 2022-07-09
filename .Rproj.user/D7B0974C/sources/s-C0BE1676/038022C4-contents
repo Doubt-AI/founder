@@ -21,8 +21,8 @@ removePathAccents: true
 
 module:
   imports:
-    - path: github.com/Doubt-AI/founder/tree/main/themes/modules/wowchemy-plugin-netlify-cms
-    - path: github.com/Doubt-AI/founder/tree/main/themes/modules/wowchemy-plugin-netlify
+    - path: github.com/Doubt-AI/founder/blob/main/themes/modules/wowchemy-plugin-netlify/go.mod
+    - path: github.com/Doubt-AI/founder/blob/main/themes/modules/wowchemy-plugin-netlify-cms/go.mod
 
 ############################
 ## ADVANCED
