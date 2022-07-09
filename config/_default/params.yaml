@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 2022 Doubt AI. · Powered by the [Academic](https://themes.gohugo.io/themes/hugo-academic/) theme for [Hugo](https://gohugo.io).
     license:
       enable: true
       allow_derivatives: false
@@ -84,7 +84,7 @@ features:
     commento:
       url: ''
   search:
-    provider: wowchemy
+    provider: ''
     algolia:
       app_id: ''
       api_key: ''
