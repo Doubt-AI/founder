@@ -41,7 +41,7 @@ header:
 
 # Site footer
 
-#footer:
+footer:
   copyright:
     notice: '© 2022 Doubt AI. · Powered by the [Academic](https://themes.gohugo.io/themes/hugo-academic/) theme for [Hugo](https://gohugo.io).'
     license:
