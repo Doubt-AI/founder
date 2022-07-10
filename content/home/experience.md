@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CISO
+  - title: Security Manager & CISO
     company: Vouch Insurance
     company_url: 'https://vouch.us'
     company_logo: org-gc
@@ -42,7 +42,43 @@ experience:
     location: California
     date_start: '2021-01-20'
     date_end: '2022-01-20'
-    description: Staff Engineer things. LOL.
+    description: Head of Information Security.
+    
+  - title: Information Security Director
+    company: Forge Global
+    company_url: 'https://forgeglobal.com'
+    company_logo: 
+    location: California
+    date_start: '2019-10-21'
+    date_end: '2021-01-15'
+    description: Head of IT and Information Security.
+    
+  - title: Information Security Manager
+    company: Funding Circle
+    company_url: 'https://fundingcircle.com'
+    company_logo:
+    location: California
+    date_start: '2016-07-07'
+    date_end: '2019-10-14'
+    description: Head of the Security Operations program.
+    
+  - title: Information Security Analyst
+    company: Castlight Health
+    company_url: 'https://www.castlighthealth.com/'
+    company_logo: 
+    location: California
+    date_start: '2015-06-15'
+    date_end: '2016-07-05'
+    description: Engineering
+    
+  - title: Team Leader
+    company: RSA Security
+    company_url: 'https://www.rsa.com'
+    company_logo: 
+    location: California
+    date_start: '2012-10-15'
+    date_end: '2015-05-20'
+    description: Engineering
 
 design:
   columns: '2'
